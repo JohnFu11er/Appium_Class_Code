@@ -1,0 +1,8 @@
+Placeholder,Step,Page,Object,Keyword,Value
+Placeholder,***STEP1***,LoginWindow,username_field,EnterData,john
+Placeholder,***STEP2***,LoginWindow,username_field,ClearText, null
+Placeholder,***STEP3***,LoginWindow,username_field,EnterData,john
+Placeholder,***STEP4***,LoginWindow,password_field,EnterData,password
+Placeholder,***STEP5***,LoginWindow,username_field,VerifyText,john
+Placeholder,***STEP6***,LoginWindow,clear_button,IsDisplayed,Null
+Placeholder,***STEP7***,LoginWindow,login_button,Click,Null
